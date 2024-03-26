@@ -6,10 +6,8 @@ Este é um clone do site da Rockstar Games criado na Semana do zero ao programad
 ## Técnologias utilizadas
 As técnologias utilizadas foram:
 
--HTML;
-
--CSS;
-
--JavaScript.
+- HTML;
+- CSS;
+- JavaScript.
 
 ### [Link para acesso ao site](https://dantgamerbr.github.io/projeto-gta/)
